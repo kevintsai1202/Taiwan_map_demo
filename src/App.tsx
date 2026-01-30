@@ -1,5 +1,5 @@
 import './App.css'
-import TaiwanMap from './TaiwanMapDemo'
+import TaiwanMap from '@/components/TaiwanMap'
 
 function App() {
   return (
