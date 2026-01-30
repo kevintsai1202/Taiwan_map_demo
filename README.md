@@ -3,6 +3,8 @@
 A beautiful, interactive, and accurate SVG map of Taiwan built with React.
 一個美觀、互動且精準的 React 台灣地圖組件。
 
+### 🚀 [Live Demo / 線上預覽](https://kevintsai1202.github.io/Taiwan_map_demo/)
+
 ![Demo Screenshot](./screenshot.png) 
 *(Please add a screenshot named screenshot.png to the root directory if available / 請在根目錄添加截圖)*
 
@@ -41,7 +43,7 @@ This project is built upon the following excellent open-source libraries:
 
 ## Project Structure (專案結構)
 
-- `src/TaiwanMapDemo.tsx`: The main component containing the map logic, styles, and data mapping. (核心組件，包含地圖邏輯、樣式與數據映射)。
+- `src/components/TaiwanMap/`: The main component module. (核心組件模組)。
 - `src/App.tsx`: Entry point rendering the demo. (程式入口)。
 
 ## License
